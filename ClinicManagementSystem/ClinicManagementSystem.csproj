@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{170A4965-267D-4228-B770-761CDB7013AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClinicManagementSystem</RootNamespace>
+    <AssemblyName>ClinicManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ext\icon\Male-Doctor.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\Crystal.Reports.Essentials.13.0.20.2399\lib\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\Crystal.Reports.Essentials.13.0.20.2399\lib\CrystalDecisions.ReportSource.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\Crystal.Reports.Essentials.13.0.20.2399\lib\CrystalDecisions.Shared.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\Crystal.Reports.Essentials.13.0.20.2399\lib\CrystalDecisions.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\CrystalDecisions.Windows.Forms.1.0.0\lib\CrystalDecisions.Windows.Forms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.9.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, PublicKeyToken=e8a75d24b142be49, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.9\lib\net40\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.1.9.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="RptPatHist.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptPatHist.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptTags.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptTags.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CtrlTagReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlTagReports.Designer.cs">
+      <DependentUpon>CtrlTagReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptAppointments.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptAppointments.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CtrlAppointmentReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlAppointmentReport.Designer.cs">
+      <DependentUpon>CtrlAppointmentReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlDoctReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlDoctReports.Designer.cs">
+      <DependentUpon>CtrlDoctReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlLogReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlLogReports.Designer.cs">
+      <DependentUpon>CtrlLogReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlPatHisReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlPatHisReport.Designer.cs">
+      <DependentUpon>CtrlPatHisReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptPatLogs.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptPatLogs.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptRegist.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptRegist.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CtrlAddStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlAddStaff.Designer.cs">
+      <DependentUpon>CtrlAddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlCheckAppt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlCheckAppt.Designer.cs">
+      <DependentUpon>CtrlCheckAppt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlAddAppt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlAddAppt.Designer.cs">
+      <DependentUpon>CtrlAddAppt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlDeletePatient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlDeletePatient.Designer.cs">
+      <DependentUpon>CtrlDeletePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlLogs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlLogs.Designer.cs">
+      <DependentUpon>CtrlLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlMedicalProcess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlMedicalProcess.Designer.cs">
+      <DependentUpon>CtrlMedicalProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlPat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlPat.Designer.cs">
+      <DependentUpon>CtrlPat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlRegi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlRegi.Designer.cs">
+      <DependentUpon>CtrlRegi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlRegistReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlRegistReport.Designer.cs">
+      <DependentUpon>CtrlRegistReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlRemoveStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlRemoveStaff.Designer.cs">
+      <DependentUpon>CtrlRemoveStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlReportNav.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlReportNav.Designer.cs">
+      <DependentUpon>CtrlReportNav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlViewAppt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlViewAppt.Designer.cs">
+      <DependentUpon>CtrlViewAppt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CtrlViewTags.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CtrlViewTags.Designer.cs">
+      <DependentUpon>CtrlViewTags.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExternalForm.cs" />
+    <Compile Include="FormAdmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmission.Designer.cs">
+      <DependentUpon>FormAdmission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDoctor.Designer.cs">
+      <DependentUpon>FormDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQueue.Designer.cs">
+      <DependentUpon>FormQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdvancedSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdvancedSearch.Designer.cs">
+      <DependentUpon>FormAdvancedSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogIn.Designer.cs">
+      <DependentUpon>FormLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelection.Designer.cs">
+      <DependentUpon>FormSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaff.Designer.cs">
+      <DependentUpon>FormStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewDoct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewDoct.Designer.cs">
+      <DependentUpon>FormViewDoct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewPat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViewPat.Designer.cs">
+      <DependentUpon>FormViewPat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Integrity.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickRead.cs" />
+    <Compile Include="SmartCounter.cs" />
+    <Compile Include="TimeHandler.cs" />
+    <Compile Include="Util.cs" />
+    <EmbeddedResource Include="RptPatHist.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPatHist.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptTags.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptTags.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlTagReports.resx">
+      <DependentUpon>CtrlTagReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptAppointments.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptAppointments.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlAppointmentReport.resx">
+      <DependentUpon>CtrlAppointmentReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlDoctReports.resx">
+      <DependentUpon>CtrlDoctReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlLogReports.resx">
+      <DependentUpon>CtrlLogReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlPatHisReport.resx">
+      <DependentUpon>CtrlPatHisReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptPatLogs.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPatLogs.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptRegist.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptRegist.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlAddStaff.resx">
+      <DependentUpon>CtrlAddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlCheckAppt.resx">
+      <DependentUpon>CtrlCheckAppt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlAddAppt.resx">
+      <DependentUpon>CtrlAddAppt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlDeletePatient.resx">
+      <DependentUpon>CtrlDeletePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlLogs.resx">
+      <DependentUpon>CtrlLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlMedicalProcess.resx">
+      <DependentUpon>CtrlMedicalProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlPat.resx">
+      <DependentUpon>CtrlPat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlRegi.resx">
+      <DependentUpon>CtrlRegi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlRegistReport.resx">
+      <DependentUpon>CtrlRegistReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlRemoveStaff.resx">
+      <DependentUpon>CtrlRemoveStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlReportNav.resx">
+      <DependentUpon>CtrlReportNav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlViewAppt.resx">
+      <DependentUpon>CtrlViewAppt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CtrlViewTags.resx">
+      <DependentUpon>CtrlViewTags.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmission.resx">
+      <DependentUpon>FormAdmission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDoctor.resx">
+      <DependentUpon>FormDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQueue.resx">
+      <DependentUpon>FormQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdvancedSearch.resx">
+      <DependentUpon>FormAdvancedSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogIn.resx">
+      <DependentUpon>FormLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelection.resx">
+      <DependentUpon>FormSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaff.resx">
+      <DependentUpon>FormStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewDoct.resx">
+      <DependentUpon>FormViewDoct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViewPat.resx">
+      <DependentUpon>FormViewPat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ext\button\addapoint.png" />
+    <Content Include="ext\button\CHECKapoint.png" />
+    <Content Include="ext\button\logout.png" />
+    <Content Include="ext\button\logs.png" />
+    <Content Include="ext\button\Patient.png" />
+    <Content Include="ext\button\REPORTS.png" />
+    <Content Include="ext\element\logo_logo.png" />
+    <Content Include="ext\element\medclinic_logo.jpg" />
+    <Content Include="ext\element\medclinic_logobig.png" />
+    <Content Include="ext\element\PadlockFlat.png" />
+    <Content Include="ext\element\long_logo.png" />
+    <Content Include="ext\element\long_logo2.png" />
+    <Content Include="ext\element\long_logo320.png" />
+    <Content Include="ext\element\PUPLogo.png" />
+    <Content Include="ext\icon\Male-Doctor.ico" />
+    <Content Include="lib\AForge.dll" />
+    <Content Include="lib\AForge.Imaging.dll" />
+    <Content Include="lib\AForge.Video.DirectShow.dll" />
+    <Content Include="lib\AForge.Video.dll" />
+    <Content Include="lib\DevComponents.DotNetBar2.dll" />
+    <Content Include="lib\Gma.QrCodeNet.Encoding.dll" />
+    <Content Include="lib\itextsharp.dll" />
+    <Content Include="lib\MetroFramework.Design.dll" />
+    <Content Include="lib\MetroFramework.dll" />
+    <Content Include="lib\MetroFramework.Fonts.dll" />
+    <Content Include="lib\MySql.Data.dll" />
+    <Content Include="lib\QRCoder.dll" />
+    <Content Include="lib\UnityEngine.dll" />
+    <Content Include="lib\zxing.dll" />
+    <Content Include="lib\zxing.presentation.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ext\form\" />
+    <Folder Include="ext\panel\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,343 @@
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppointment.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\earldixon\Desktop\iso\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+M:\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+M:\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddStaff.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlMedicalProcess.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPat.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRemoveStaff.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewAppt.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewTags.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmission.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormDoctor.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormQueue.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmin.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdvancedSearch.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormSelection.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewDoct.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewPat.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\Louise\Desktop\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddStaff.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlMedicalProcess.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPat.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRemoveStaff.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewAppt.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewTags.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmission.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormDoctor.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormQueue.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmin.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdvancedSearch.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormSelection.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewDoct.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewPat.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDeletePatient.resources
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\Ilaga_Family\Desktop\PROJECT\Programming\C#\System\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddStaff.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDeletePatient.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlMedicalProcess.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPat.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegistReport.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRemoveStaff.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlReportNav.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewAppt.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewTags.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmission.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormDoctor.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormQueue.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmin.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdvancedSearch.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormSelection.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewDoct.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewPat.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogReports.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAppointmentReport.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDoctReports.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPatHisReport.resources
+C:\Users\earldixon\Desktop\iso\Backups\ClinicManagementSystem (1)\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlTagReports.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlTagReports.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAppointmentReport.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDoctReports.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogReports.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPatHisReport.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddStaff.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDeletePatient.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlMedicalProcess.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPat.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegistReport.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRemoveStaff.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlReportNav.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewAppt.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewTags.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmission.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormDoctor.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormQueue.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmin.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdvancedSearch.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormSelection.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewDoct.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewPat.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\User\Desktop\SYSTEM\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlTagReports.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAppointmentReport.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDoctReports.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogReports.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPatHisReport.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddStaff.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDeletePatient.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlMedicalProcess.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPat.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegistReport.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRemoveStaff.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlReportNav.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewAppt.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewTags.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmission.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormDoctor.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormQueue.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmin.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdvancedSearch.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormSelection.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewDoct.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewPat.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\earldixon\Desktop\New folder (2)\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
+G:\EXCALIBUR\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+G:\EXCALIBUR\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+G:\EXCALIBUR\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\Ilaga_Family\Desktop\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Users\Ilaga_Family\Desktop\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\Ilaga_Family\Desktop\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.exe
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.pdb
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Imaging.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\AForge.Video.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\UnityEngine.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\zxing.presentation.dll
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlTagReports.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAppointmentReport.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDoctReports.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogReports.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPatHisReport.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddStaff.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlCheckAppt.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlAddAppt.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlDeletePatient.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlLogs.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlMedicalProcess.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlPat.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegi.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRegistReport.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlRemoveStaff.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlReportNav.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewAppt.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.CtrlViewTags.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmission.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormDoctor.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormQueue.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdmin.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormAdvancedSearch.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormLogIn.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormSelection.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormStaff.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewDoct.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.FormViewPat.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\BryanJames\Desktop\FINAL_SYSTEM\SYSTEM\FRONT-END\SOURCE\ClinicManagementSystem\ClinicManagementSystem\ClinicManagementSystem\obj\x86\Debug\ClinicManagementSystem.csproj.GenerateResource.Cache
